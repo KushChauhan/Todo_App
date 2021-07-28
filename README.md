@@ -1,2 +1,2 @@
 # Todo_App
-A basic functional todo app with python and Django.
+A basic functional todo app using python and Django.
